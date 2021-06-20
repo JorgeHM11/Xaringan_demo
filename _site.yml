@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "Tutorial ggplot2"
 navbar:
-  title: "MyLabJournal"
+  title: "Tutorial ggplot2"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Revista"
       href: Journal.html
-    - text: "Links"
+    - text: "Enlaces"
       href: Links.html
 output_dir: "docs"
